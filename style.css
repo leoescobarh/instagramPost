@@ -1,0 +1,48 @@
+body{
+    background: #f4f4f4;
+    margin: 0;
+}
+span{
+    float: right;
+   
+
+}
+
+header {
+    background: white;
+    padding: 15px;
+    
+}
+
+.primerDIV {
+    background: white;
+}
+
+.contenedor1 {
+    width: 500px;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+
+.icono3  {
+   text-align: right;
+
+}
+
+.header2 {
+    display: flex;
+    flex-direction: row;
+}
+.fa-share {
+float: right;
+}
+.fa-ellipsis-vertical {
+    float: right;
+    text-align: right;
+}
+.fa-html5{
+    font-size: 55px;
+}
